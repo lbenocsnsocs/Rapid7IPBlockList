@@ -1,2 +1,3 @@
 Date          Version     Name                Description/Reference
-18/09/2022    0.1         Akin Akintayo       Pulled some existing ip addresses from the current blocked list
+18/09/2022    0.0         Akin Akintayo       Pulled some existing ip addresses from the current blocked list
+18/09/2022    0.1         Akin Akintayo       Created feed on external firewall and connection successfully setup, added 2 more ip addresses to test update functionality 
